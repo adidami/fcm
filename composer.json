@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^7.3.33",
         "ext-curl": "*",
         "google/auth": "^1.41"
     },
