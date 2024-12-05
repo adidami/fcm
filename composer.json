@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.3.33",
         "ext-curl": "*",
-        "google/auth": "^1.41"
+        "google/auth": "^1.27"
     },
     "autoload": {
         "psr-4": {
