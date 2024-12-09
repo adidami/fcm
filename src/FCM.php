@@ -15,13 +15,13 @@ class FCM
      *  @var string
      *  Scope for the APIs you would like to access 
      **/
-    private string $scope = "https://www.googleapis.com/auth/firebase.messaging";
+    private $scope = "https://www.googleapis.com/auth/firebase.messaging";
 
     /**
      *  @var array
      *  Service Account Credential JSON decoded.
      **/
-    private array $service_account_credentials;
+    private $service_account_credentials;
 
     function __construct()
     {
